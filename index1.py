@@ -1,6 +1,6 @@
 a = input("What is your name? ")
 
-if name==Tuhin:
-    break
+if a =="Tuhin":
+break
 else:
     print(a)
