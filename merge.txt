@@ -1,1 +1,5 @@
+
 this file is from the master branch or merge conflict
+
+this is a file for merging in master 
+
